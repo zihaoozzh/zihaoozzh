@@ -61,5 +61,13 @@ Learning data analysis on 119,000 real hotel reservations: cancellations, season
 - **STEM mentor** in UC3M's AVANZA programme, selected on academic merit
 - **Maths & physics tutor** for secondary and high-school students, teaching in Spanish, Catalan and Mandarin
 
+## 📊 GitHub stats
+![GitHub stats](./profile/stats.svg)
+
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/zihao-zhou-uc3m)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=zihaoozzh&theme=dark&hide_border=true">
+  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=zihaoozzh&theme=default&hide_border=true">
+</picture>
