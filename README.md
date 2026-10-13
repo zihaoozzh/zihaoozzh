@@ -30,9 +30,6 @@ Automation tools for restaurant operators: an AI agent for automatic WhatsApp re
 
 `n8n` `Lovable` `REST APIs` `Webhooks` `LLM APIs` `WhatsApp`
 
-### 📚 Zheta Academy · exam prep service
-University entrance exam preparation. Reached paying students in under three months.
-
 ### 📊 Hotel bookings analysis · *in progress*
 Learning data analysis on 119,000 real hotel reservations: cancellations, seasonality and pricing (ADR).
 → [hotel-bookings-analysis](https://github.com/zihaoozzh/hotel-bookings-analysis)
