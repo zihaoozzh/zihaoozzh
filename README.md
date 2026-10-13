@@ -25,9 +25,10 @@ Loyalty and promotions app for my family's shop in Pollença (Mallorca), used by
 `React Native` `Expo` `Supabase` `PostgreSQL` `Firebase Cloud Messaging` `Gemini API` `EAS Build`
 
 ### 🤖 Zheta Hub · AI automation for hospitality
-Automation tools for restaurant operators: an AI agent for automatic WhatsApp replies and an AI-built CRM. First client: a restaurant near Madrid.
+Automation tools for restaurant operators: an AI agent for automatic WhatsApp replies and a custom CRM built with Lovable. First client: a restaurant near Madrid.
+- Connected the tools through REST APIs and webhooks (WhatsApp, LLMs, CRM)
 
-`n8n` `LLM APIs` `WhatsApp`
+`n8n` `Lovable` `REST APIs` `Webhooks` `LLM APIs` `WhatsApp`
 
 ### 📚 Zheta Academy · exam prep service
 University entrance exam preparation. Reached paying students in under three months.
@@ -42,7 +43,7 @@ Learning data analysis on 119,000 real hotel reservations: cancellations, season
 
 ## 🛠️ Stack
 
-**Products I've shipped:** React Native · Expo · Supabase · Firebase · n8n · LLM APIs (Gemini, Claude)
+**Products I've shipped:** React Native · Expo · Supabase · Firebase · n8n · Lovable · REST APIs · LLM APIs (Gemini, Claude)
 **Data, currently learning:** Python · pandas · matplotlib · SQL · Excel
 **Tools:** Git · GitHub · VS Code · Claude Code
 
