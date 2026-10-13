@@ -66,8 +66,3 @@ Learning data analysis on 119,000 real hotel reservations: cancellations, season
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/zihao-zhou-uc3m)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=zihaoozzh&theme=dark&hide_border=true">
-  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com?user=zihaoozzh&theme=default&hide_border=true">
-</picture>
