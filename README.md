@@ -41,7 +41,7 @@ Learning data analysis on 119,000 real hotel reservations: cancellations, season
 ## 🛠️ Stack
 
 **Products I've shipped:** React Native · Expo · Supabase · Firebase · n8n · Lovable · REST APIs · LLM APIs (Gemini, Claude)
-**Data, currently learning:** Python · pandas · matplotlib · SQL · Excel
+**Data, currently learning:** pandas · matplotlib · SQL · Excel
 **Tools:** Git · GitHub · VS Code · Claude Code
 
 ## 📈 Investing
@@ -61,8 +61,6 @@ Learning data analysis on 119,000 real hotel reservations: cancellations, season
 - **STEM mentor** in UC3M's AVANZA programme, selected on academic merit
 - **Maths & physics tutor** for secondary and high-school students, teaching in Spanish, Catalan and Mandarin
 
-## 📊 GitHub stats
-![GitHub stats](./profile/stats.svg)
 
 ## 📫 Contact
 [LinkedIn](https://www.linkedin.com/in/zihao-zhou-uc3m)
